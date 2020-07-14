@@ -1,3 +1,5 @@
+package TaskThree
+
 import scala.util.Sorting.quickSort
 
 object TaskThree {

@@ -1,4 +1,4 @@
-package main.scala
+package TaskTwo
 
 object TaskTwo {
 
